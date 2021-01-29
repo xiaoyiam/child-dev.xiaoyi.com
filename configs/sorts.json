@@ -1,14 +1,38 @@
 {
     "": [
+        "summary.md", 
         "preface.md", 
+        "child-psychology", 
+        "ouyang", 
         "review"
     ], 
+    "child-psychology": [
+        "preface.md"
+    ], 
+    "ouyang": [
+        "2021-01-29.md"
+    ], 
+    "review": [
+        "chapter0-introduction.md"
+    ], 
     "__positions": {
-        "review": 2, 
-        "preface.md": 1
+        "child-psychology": 3, 
+        "summary.md": 1, 
+        "ouyang": 4, 
+        "review": 5, 
+        "preface.md": 2, 
+        "child-psychology/preface.md": 3001, 
+        "review/chapter0-introduction.md": 5001, 
+        "ouyang/2021-01-29.md": 4001
     }, 
     "__raw_positions": {
-        "review": 2, 
-        "preface.md": 1
+        "child-psychology": 3, 
+        "summary.md": 1, 
+        "ouyang": 4, 
+        "review": 5, 
+        "preface.md": 2, 
+        "child-psychology/preface.md": 1, 
+        "review/chapter0-introduction.md": 1, 
+        "ouyang/2021-01-29.md": 1
     }
 }
